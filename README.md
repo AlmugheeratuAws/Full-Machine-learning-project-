@@ -95,14 +95,6 @@ Full Machine learning project.ipynb
 
 ---
 
-## Project Structure
-
-Full Machine learning project.ipynb  
-README.md  
-requirements.txt (optional)
-
----
-
 ## Results
 
 The notebook includes:
