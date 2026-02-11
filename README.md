@@ -79,27 +79,6 @@ The models are compared based on performance metrics to select the most effectiv
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-
----
-
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repository-name.git
-
-Navigate to the project directory:
-
-cd your-repository-name
-
-Install required dependencies:
-
-pip install -r requirements.txt
-
-If a requirements file is not included:
-
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
-
 ---
 
 ## How to Run
