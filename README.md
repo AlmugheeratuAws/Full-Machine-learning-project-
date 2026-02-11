@@ -26,12 +26,10 @@ The project demonstrates the full lifecycle of a machine learning solution, incl
 
 The project includes implementation and evaluation of the following algorithms:
 
-- Linear Regression
-- Logistic Regression (if classification task)
+- Logistic Regression
 - Decision Tree
 - Random Forest
 - Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
 
 The models are compared based on performance metrics to select the most effective approach for the given problem.
 
@@ -78,14 +76,13 @@ The models are compared based on performance metrics to select the most effectiv
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Jupyter Notebook
 ---
 
 ## How to Run
 
-1. Launch Jupyter Notebook:
+1. Launch Google colab:
 
-jupyter notebook
+google colab 
 
 2. Open the notebook file:
 
